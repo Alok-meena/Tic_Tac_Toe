@@ -40,7 +40,7 @@ nav ul{
     display: grid;
     grid-template-rows: repeat(3, 10vw);
     grid-template-columns: repeat(3, 10vw);
-    font-family: 'Roboto', sans-serif;
+    font-family: fangsong;
     position: relative;
 }
 
@@ -63,7 +63,7 @@ nav ul{
 
 .gameInfo{
     padding: 0 34px;
-    font-family: 'Baloo Bhaina 2', cursive;
+    font-family:'Futura Today Bold', cursive;
 }
 
 .gameInfo h1{
@@ -97,7 +97,7 @@ nav ul{
     background: #f3e7f9;
     border-radius: 6px;
     cursor: pointer;
-    font-family: 'Baloo Bhaina 2';
+    font-family:'Futura Today Bold';
     font-size: 15px;
     font-weight: bolder;
 }
